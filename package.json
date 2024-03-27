@@ -1,6 +1,6 @@
 {
   "name": "renovate-test-27939",
-  "devDependencies": {
+  "dependencies": {
     "@graphql-eslint/eslint-plugin": "3.19.3",
     "jest": "29.4.3"
   }
